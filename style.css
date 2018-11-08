@@ -1,0 +1,48 @@
+header {
+ background-image:url("img/shapka.jpg");
+height: 200px;
+}
+div{
+ float: right;
+ margin: 50px 100px 0 0px;
+}
+a {
+ color: white;
+ font-size: 20px;
+text-decoration: underline white;
+}
+a:hover{
+ color: crimson;
+ text-decoration: none;
+}
+li {
+ list-style: none;
+ display:contents;
+}
+nav{
+ : center;
+}
+.nav-a {
+ text-decoration: none;
+}
+.nav-a:hover{
+ color: crimson;
+ text-decoration: underline crimson;
+}
+.main-content{
+ margin: 0 auto;
+width: 900px;
+}
+.content-email{
+ margin: 0 40px 0 0;
+ padding-top: 2px;
+ float: left;
+
+}
+aside {
+ margin: 20px 0 0 0;
+ float: left;
+}
+form {
+ margin: 0 0 20px 0;
+}
